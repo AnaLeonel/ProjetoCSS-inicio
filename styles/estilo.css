@@ -82,3 +82,22 @@ article h2{
     padding: 10px;
     margin-top: 0;
 }
+
+.btn{
+    background-color: #aacbda;
+    display: inline-block;
+    padding: 12px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: rgb(16, 29, 32);
+    width: fit-content;
+}
+
+.rodape{
+    color:white;
+    background-color: #698da0;
+    text-align: center;
+    padding: 30px;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 2px;
+}
